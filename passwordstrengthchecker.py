@@ -15,3 +15,8 @@ elif length >= 8 and score >= 3:
 return "👌 Medium"
 else:
 return "⚠️ Weak"
+
+
+if __name__ == "__main__":
+pwd = input("Enter a password to check: ")
+print("Password strength:", check_strength(pwd))

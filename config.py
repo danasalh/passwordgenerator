@@ -1,0 +1,7 @@
+# config.py
+DEFAULT_LENGTH = 12
+INCLUDE_NUMBERS = True
+INCLUDE_SYMBOLS = True
+DEFAULT_STYLE = "strong"
+
+
